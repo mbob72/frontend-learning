@@ -8,6 +8,10 @@
 
 Страница в браузере. HTML, CSS, JS.
 
+[Видео про веб приложения, страницу в браузере](https://www.youtube.com/watch?v=Dn7hkeXnBsw) - обратить внимаение на отрезок с третьей по пятную минуты там как раз про HTML, CSS, JS.
+
+[Видео про инструменты разработки](https://www.youtube.com/watch?v=pOCwI_EUHjA) - это про то как заглянуть "под капот" этой самой странице.
+
 Развитие навыка слепой печати https://web-copywriting.ru/copywriter/8-trenazherov-dlya-prokachki-navyka-slepoj-pechati/#VerseQ
 (моя рекомендация - VerseQ)
 
