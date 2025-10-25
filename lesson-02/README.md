@@ -1,6 +1,8 @@
 * CSS Flex-box
 
-Начинаем с этого  [гайда](https://doka.guide/css/flexbox-guide/)
+Комфортнее наверно начать с [видео ](https://www.youtube.com/watch?v=YG8Vhz1pAsU)
+
+Далее туториал  [гайда](https://doka.guide/css/flexbox-guide/)
 до пункта ORDER,
 
 Потом проходим [интерактивный курс с лягушками](https://flexboxfroggy.com/)
@@ -61,7 +63,9 @@ css-tricks.com
 
 Предлагается следующая последовательность изучения
 
-Сначала последовательный [пересказ возможностей отсюда ](https://skillbox.ru/media/code/uchimsya-verstat-v-setke-bolshoy-gayd-po-css-grid/)
+Сначала [видео](https://www.youtube.com/watch?v=JrKOHNRnRMg) [пересказ возможностей отсюда ]
+
+Далее туториал (https://skillbox.ru/media/code/uchimsya-verstat-v-setke-bolshoy-gayd-po-css-grid/)
 
 Периодически рекомендую [тыкать в это демо](https://grid.malven.co/) - удобно показывает чем управляют те или иные свойства 
 
